@@ -5,7 +5,7 @@
 I am a French engineering student, the more you know（ ͡° ͜ʖ ͡°)
 
 - 12 years playing Minecraft
-- Making stuff for fun, or for optimisation's sake >:)
+- Making stuff for fun, or in an optimization intent
 - Working with some projects as bugs finder
 - Translates your mods, plugins and more!
 - Contact me via `<Insert social media>`
